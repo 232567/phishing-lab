@@ -1,0 +1,40 @@
+# Laboratório de Cibersegurança — DIO
+
+## Sobre o projeto
+Projeto educativo desenvolvido durante o desafio de Cibersegurança da Digital Innovation One (DIO), com foco na compreensão de phishing e na identificação de páginas falsas.
+
+## Objetivos
+- Compreender o funcionamento de ataques de engenharia social.
+- Identificar sinais de páginas fraudulentas.
+- Praticar comandos Linux, HTML e Git.
+- Documentar o aprendizado no GitHub.
+
+## Ambiente e ferramentas
+- Ubuntu Linux em máquina virtual VirtualBox
+- Terminal Linux
+- HTML5
+- Git e GitHub
+- Navegador web
+
+## Desenvolvimento
+Foi criada uma página HTML local de conscientização sobre phishing, com orientações para reconhecer páginas falsas e proteger senhas.
+
+A página foi aberta e testada no navegador. A simulação não coleta nem armazena credenciais.
+
+## Diferenças em relação ao laboratório original
+O desafio de referência utiliza Kali Linux e SEToolkit para demonstrar um cenário de captura de credenciais. Nesta adaptação, foi utilizado Ubuntu e uma página educativa local, sem clonagem de serviços reais ou captura de senhas.
+
+## Resultados
+- Página educativa HTML criada.
+- Visualização local no navegador realizada.
+- Ambiente Linux utilizado para prática.
+- Repositório público criado para documentação do projeto.
+
+## Segurança e ética
+Este projeto tem finalidade exclusivamente educacional e de conscientização. Não utiliza credenciais reais nem coleta informações pessoais.
+
+## Referência
+[Desafio original da DIO](https://github.com/cassiano-dio/cibersecurity-desafio-phishing)
+
+## Autor
+Jeverson Borges
